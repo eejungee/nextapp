@@ -1,0 +1,56 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "title": "html",
+      "body": "html is ..."
+    },
+    {
+      "id": 2,
+      "title": "css",
+      "body": "css is ..."
+    },
+    {
+      "title": "title",
+      "body": "body",
+      "id": 3
+    },
+    {
+      "title": "first",
+      "body": "first",
+      "id": 4
+    },
+    {
+      "title": "first",
+      "body": "first",
+      "id": 5
+    },
+    {
+      "title": "first",
+      "body": "first",
+      "id": 6
+    },
+    {
+      "title": "first",
+      "body": "first",
+      "id": 7
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
